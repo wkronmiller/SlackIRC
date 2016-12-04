@@ -1,0 +1,5 @@
+run*.sh
+env.sh
+node_modules/
+npm-debug.log
+.node-*
